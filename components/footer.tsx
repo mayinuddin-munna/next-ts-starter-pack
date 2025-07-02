@@ -11,8 +11,8 @@ export default function Footer() {
           <div className="flex flex-col">
             {/* Website logo here */}
             <Logo className="text-light" />
-            <p className="mt-4 text-gray-300">Pabna, Bangladesh</p>
-            <p className="mt-2 text-gray-300">+8800000-000000</p>
+            <p className="mt-4 text-gray-300">Dhaka, Bangladesh</p>
+            <p className="mt-2 text-gray-300">+8801572-00000</p>
             <div className="mt-4 flex space-x-4">
               <Link
                 target="_blank"
@@ -86,7 +86,7 @@ export default function Footer() {
             </Link>{' '}
             <br /> Developed by{' '}
             <Link className="text-light" href="https://tariqul.vercel.app" target="_blank">
-              Tariqul Islam
+              Mayinuddin Munna
             </Link>
           </p>
         </div>

@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-- **Tariqul Islam** - [GitHub](https://github.com/tariqul420)
+- **Mayinuddin Munna** - [GitHub](https://github.com/tariqul420)
 
 ## 🙏 Acknowledgments
 
@@ -313,4 +313,4 @@ Stay updated with the latest changes by:
 
 ---
 
-Made with ❤️ by Tariqul Islam
+Made with ❤️ by Mayinuddin Munna
